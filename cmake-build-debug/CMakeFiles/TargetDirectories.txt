@@ -1,0 +1,3 @@
+/Users/trisoil/OneDrive - bupt.edu.cn/Codes/Git_test/cmake-build-debug/CMakeFiles/Git_test.dir
+/Users/trisoil/OneDrive - bupt.edu.cn/Codes/Git_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trisoil/OneDrive - bupt.edu.cn/Codes/Git_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
