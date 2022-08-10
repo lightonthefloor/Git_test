@@ -3,4 +3,4 @@ project(Git_test)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Git_test main.cpp)
+add_executable(Git_test main.cpp Input.cpp Input.h)
