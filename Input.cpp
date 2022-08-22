@@ -4,10 +4,5 @@
 
 #include "Input.h"
 
-void input()
-{
-  printf("Hello world!");
-}
-
 
 // hello world!!
